@@ -10,7 +10,7 @@ El objetivo es mostrar un portafolio académico y profesional desarrollado en co
 ## 📂 Contenido
 - Modelos de Machine Learning clásicos
 - Modelos de Deep Learning
-- Archivos de soporte (`docs/`, datasets de prueba, etc.)
+- Archivos de soporte (`docs`, datasets de prueba, etc.)
 
 ---
 
