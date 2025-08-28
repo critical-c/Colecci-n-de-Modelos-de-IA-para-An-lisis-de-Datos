@@ -36,3 +36,8 @@ python modelos/ejemplo.py
 ## 👥 Colaboradores
 - **Jeferson Vega** → [GitHub/critical-c](https://github.com/critical-c)  
 - **Lucas Monroy** → [GitHub/YhatoLG](https://github.com/YhatoLG)  
+
+---
+
+## 📄 Licencia
+Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
